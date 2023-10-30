@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am software engineer, working on VS.Net also ML and <br>IoT (Arduino, ESP and Respbarry Pi).
+I am full Stack Developer, working on VS.Net also ML and <br>IoT (Arduino, ESP and Respbarry Pi).
 
 
 ## 🌐 Socials:
